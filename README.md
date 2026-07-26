@@ -1,0 +1,2 @@
+# Ammar-ai-learning-hub
+AI STUDENT PORTAL WITH VOICE  HISTORY GEMINI AI
